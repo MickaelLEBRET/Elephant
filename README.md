@@ -1,5 +1,9 @@
 <h1 align="center">Elephant</h1>
 
+<h2align="center">Fork details</h2>
+- Alpha background
+- No fatal error
+
 <p align="center"><strong>This is SVG animation presentation kit for iOS.</strong></p>
 
 <p align="center">
